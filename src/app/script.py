@@ -8,4 +8,4 @@ if __name__ == "__main__":
     
     mes = mes ** n
   
-    print(f"Результат: " + str(mes))
+    print(f"Итоговый результат: " + str(mes))
